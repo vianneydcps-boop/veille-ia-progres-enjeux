@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vianneydcps-boop.github.io/veille-ia-progres-enjeux/sitemap.xml
